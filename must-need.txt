@@ -1,5 +1,4 @@
-
-1.User friendly navigation witg breadcrumbs
+1.User friendly navigation with breadcrumbs
 2.Internal site search
 3.Product filter
 4.Footer navigation
