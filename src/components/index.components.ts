@@ -1,0 +1,1 @@
+export { default as ProductsCard} from "./products/ProductCard"
